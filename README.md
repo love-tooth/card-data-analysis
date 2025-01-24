@@ -1,4 +1,4 @@
-# ELK 데이터 시각화 프로젝트
+![image](https://github.com/user-attachments/assets/84de5ee6-a058-4054-a85c-41d3c1499a77)# ELK 데이터 시각화 프로젝트
 
 <br>
 
@@ -24,40 +24,11 @@
 <br>
 
 ## 🛠️ 개발구성원 
-<table>
-  <tbody>
-    <tr>
-      <td align="center">
-          <a href="https://github.com/HyunDooBoo">
-          <img src="https://github.com/HyunDooBoo.png" width="200px;" alt=""/>
-          <br /><sub><b> 오현두 </b></sub>
-        </a>
-        <br />
-      </td>
-      <td align="center">
-        <a href="https://github.com/imhaeunim">
-          <img src="https://github.com/imhaeunim.png" width="200px;" alt=""/>
-          <br /><sub><b> 임하은 </b></sub>
-        </a>
-        <br />
-      </td>
-      <td align="center">
-        <a href="https://github.com/BlueRedOrange">
-          <img src="https://github.com/BlueRedOrange.png" width="200px;" alt=""/>
-          <br /><sub><b> 정파란 </b></sub>
-        </a>
-        <br />
-      </td>
-      <td align="center">
-         <a href="https://github.com/yeejkim">
-          <img src="https://github.com/yeejkim.png" width="200px;" alt=""/>
-          <br /><sub><b> 김예진 </b></sub>
-        </a>
-        <br />
-      </td>
-    </tr>
-  </tbody>
-</table>
+|                                         Project Manager                                         |                                        Data Visualization Specialist                                         |                                         UX/UI Designer                                         |                                        Data Analyst                                        |
+|:---------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
+| <img src="https://github.com/user-attachments/assets/20d2f5f4-5e8b-4cc0-a1e5-effbd7ad1650" width=200px alt="오현두"> | <img src="https://github.com/user-attachments/assets/ebf19366-9f48-4408-a23b-73e137bf1507" width=200px alt="임하은"> | <img src="https://github.com/user-attachments/assets/05e882db-2001-4a7c-b4be-b5bf29b69915" width=200px alt="정파란"> | <img src="https://github.com/user-attachments/assets/de720e0b-8d28-4163-b141-0ac6bd8745b3" width=200px alt="김예진"> |
+|                          [오현두](https://github.com/HyunDooBoo)                           |                           [임하은](https://github.com/imhaeunim)                            |                           [정파란](https://github.com/BlueRedOrange)                            |                          [김예진](https://github.com/yeejkim)                           |
+|                                           PM                                            |                                           DVS                                           |                                           UD                                            |                                           DA                                            |
 
 <br> 
 
