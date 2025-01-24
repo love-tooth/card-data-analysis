@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/84de5ee6-a058-4054-a85c-41d3c1499a77)# ELK 데이터 시각화 프로젝트
+# ELK 데이터 시각화 프로젝트
 
 <br>
 
