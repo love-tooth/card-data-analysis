@@ -25,7 +25,8 @@
     - 종류: Linux
     - 버전: Ubuntu (64-bit)
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/565e8f63-29f0-4c30-a3a3-898eedc2afef/1ab7de0e-280a-45a9-94cd-65950a5e2191/image.png)
+    ![image](https://github.com/user-attachments/assets/8c1039a3-5758-49b9-8654-71292093514d)
+
     
 3. 메모리 크기 설정 (최소 2GB 권장)
 4. 가상 하드 디스크 생성:
@@ -38,7 +39,8 @@
 
 1. VirtualBox NAT 네트워크 생성
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/565e8f63-29f0-4c30-a3a3-898eedc2afef/6a76c1fb-1c56-48c6-ab1e-ca0ab64149f0/image.png)
+    ![image](https://github.com/user-attachments/assets/ff9d879a-d88a-413a-9698-cd49145cccb4)
+
     
 2. **네트워크(Network)** 탭 선택 → "NAT 네트워크" 추가
     - 이름: `NatNetword`
@@ -48,7 +50,8 @@
     1. ubuntu 클릭 → 설정 → Expert → 네트워크
     2. 이름 → 위에서 설정한 NAT 네트워크
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/565e8f63-29f0-4c30-a3a3-898eedc2afef/ce51af0f-9a6e-4411-9681-5d75ef53c9e9/image.png)
+    ![image](https://github.com/user-attachments/assets/4492eaa0-2ace-42d5-81dd-30b3c6509c55)
+
     
 
 ## 🔹 2. 각 Ubuntu에 OpenSSH 서버 설치 및 포트 설정 🔑
@@ -122,7 +125,8 @@
     - 위의 과정을 진행한 이후 ifconfig 명령어를 사용하여 여러 Ubuntu 인스턴스의 IP 주소 확인.
     - 아래 사진은 10.0.2.5 임을 확인.
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/565e8f63-29f0-4c30-a3a3-898eedc2afef/f9b370e6-cbdc-4d32-9211-cf3e6362140d/image.png)
+    ![image](https://github.com/user-attachments/assets/b8ecebe3-0f42-4470-be9f-7229da21b35e)
+
     
 
 ### 🔄 2.4 포트 포워딩 설정
@@ -148,6 +152,7 @@
     - **Remote Host**: `127.0.0.1`
     - **Port**: 각 VM에 맞는 포트 (예: 22, 23, 24)
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/565e8f63-29f0-4c30-a3a3-898eedc2afef/e8c8a932-89d2-4554-b43d-a1bb72d33355/image.png)
+    ![image](https://github.com/user-attachments/assets/4bb844dc-c21f-4964-8c2e-1dd3e5c1daaf)
+
     
 3. "OK" 클릭 후 ubuntu의 아이디, 비밀번호를 입력하여 접속.
