@@ -110,11 +110,9 @@
 
 ## ✨ 환경 세팅
 
-  - 다중 Ubuntu 환경 구성 및 MobaXterm 연동
-    - 링크
+  - [다중 Ubuntu 환경 구성 및 MobaXterm 연동](env-setup-readme/division_ubuntu.md)
       
-  - Elasticsearch / kibana 설치
-    - 링크
+  - [Elasticsearch / kibana 설치](env-setup-readme/es_kibana_install.md)
 
 <br>
 
